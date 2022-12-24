@@ -1,11 +1,6 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 ## 🚀 About Me
-I'm a fresh graduate interested in changing careers to data analyst.
+I'm a recent graduate interested in pursuing a career as a Data analyst. 
 
 
 ## 🛠 Skills
-Python, R, 
+Python, R, SQL, Spreadsheet
