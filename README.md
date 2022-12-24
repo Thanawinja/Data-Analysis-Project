@@ -1,2 +1,2 @@
 # Basic-Python-Programming
-สวัสดีชาวโลก
+Computer Programming for Computer Science student
