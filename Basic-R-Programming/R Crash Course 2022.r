@@ -2,8 +2,7 @@
 
 # -- Sheet --
 
-# # - R Crash Course - by ... P'Toy Data Rockie
-
+# # - R Crash Course - 
 
 # Tip - shift + enter รัน code cell บน DataLore 
 
